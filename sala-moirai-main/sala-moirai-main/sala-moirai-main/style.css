@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    font-family: 'Pangolin', cursive;
+}
+
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+
+}
+
+.criador-de-conteudo.png {
+    width: 35px;
+}
+
+.gostar.png {
+    width: 35px;
+}
+
+.info.png {
+    width: 35px;
+}
+
+.jogador.png {
+    width: 35px;
+}
+
+.logomoitai.png.png {
+    width: 35px;
+}
+.cabecalho {
+    background-color: #FFFFFF
+    color black
+    ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 35%;
+}
+
+.cabecalho-imagem{
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#414141,#FFFFFF);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.gemaplys{
+    width: 130px;
+}
+
+.jogador-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+.carteiro-cosmico{
+    width: 130px;
+}
+
+.raposito{
+    width: 130px;
+}
+
+.saiko{
+    width: 130px;
+}
+
+.ycaro{
+    width: 130px    ;
+}
+
+.tiba{
+    width: 130px;
+}
+
+.bife{
+    width: 130px;
+}
+
+.bruno{
+    width: 130px;
+}
+
+.cellbit{
+    width: 130px;
+}
+
+.umild{
+    width: 130px;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+:root {
+    --cor-de-fundo: linear-gradient(#414141,#FFFFFF);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
